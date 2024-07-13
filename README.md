@@ -1,0 +1,2 @@
+The database designed for the Maroun Semaan Faculty of Engineering and Architecture (MSFEA) at the American University of Beirut serves as a comprehensive data management system intended to streamline the administrative, academic, and operational functions of the faculty. It encompasses a range of entities including buildings, rooms, departments, professors, administrative staff, students, courses, clubs, research projects, room bookings, and examination schedules.
+![image](https://github.com/user-attachments/assets/fdae07ef-1867-4530-99c1-c3c9426a9b5d)
